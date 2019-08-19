@@ -14,6 +14,11 @@
 - [ndc-dev/opendata](https://github.com/ndc-dev/opendata) - 日本図書館協会が提供するNDCオープンデータ
 - [ndc-ime-dic](https://github.com/ndc-dev/ndc-ime-dic) - 日本十進分類法のIME辞書
 - [portal_pro](https://github.com/nakamura196/portal_pro) - 東京大学学術資産等アーカイブズポータルの活用例
+- [Look Book](https://github.com/jphacks/TK_1712) - 本の内容から関連する書籍を探し推薦するWEBアプリケーション
+- [calilen](https://github.com/kajyuuen/calilen) - カーリルのAPIマッパー（Ruby）
+- [Calilay](https://github.com/namikister/calilay) - 対応サイト上で見ている本が、登録した図書館にあるかを表示するブラウザの拡張機能
+- [go-calil](https://github.com/tkyjhr/go-calil) - カーリル図書館APIをGOで利用する
+
 ## API
 
 - [国立国会図書館サーチAPI](https://iss.ndl.go.jp/information/api/) - 検索用API、ハーベスト用API、書影API
