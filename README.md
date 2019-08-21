@@ -22,8 +22,21 @@
 ## API
 
 - [国立国会図書館サーチAPI](https://iss.ndl.go.jp/information/api/) - 検索用API、ハーベスト用API、書影API
+
 - [openBD](https://openbd.jp/) - 書誌情報・書影を自由に。ISBNをキーとした書誌・書影API
+
 - [カーリル図書館API](https://calil.jp/doc/api.html) - 図書館データベース、所蔵情報
+
 - [CiNii Articles](https://support.nii.ac.jp/ja/cia/api/a_opensearch) - 日本の論文をさがす
+
 - [CiNii Books](https://support.nii.ac.jp/ja/cinii/api/api_outline) - 大学図書館の本をさがす
+
 - [CiNii Dissertations](https://support.nii.ac.jp/ja/cid/api/d_opensearch) - 日本の博士論文をさがす
+
+- [KAKEN API](https://support.nii.ac.jp/ja/kaken/api/api_outline) - 科研費に関する情報の取得
+
+- [おおさかポータルAPI](https://www.library.pref.osaka.jp/site/osakaportal/help-api.html) - 大阪府立中之島図書館作成、大阪に関するさまざな事項や関連文献を検索
+
+- [J-STAGE WebAPI](https://www.jstage.jst.go.jp/static/pages/OtherJstageServices/TAB2/-char/ja) - J-STAGE収録データを検索可能
+
+  
